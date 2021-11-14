@@ -1,4 +1,6 @@
-#Tour-and-Travel-website
+# Tour-and-Travel-website
+
+
 A tour and travel website named "Away From Routine." In this, there are two panels: admin and user.
 
 
@@ -48,7 +50,7 @@ auth_password=Your  Email Password
 
 force_sender=Your Email-id
 
- Turning on 'less secure apps' settings as mailbox user
+ Turning on 'less secure apps' settings In google account
 
 Create the database, name useform and import the SQL file useform.sql .
 
