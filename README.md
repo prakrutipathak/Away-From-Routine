@@ -1,4 +1,4 @@
-#our-and-Travel-website
+#Tour-and-Travel-website
 A tour and travel website named "Away From Routine." In this, there are two panels: admin and user.
 
 
