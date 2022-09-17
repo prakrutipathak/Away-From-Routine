@@ -46,11 +46,24 @@ debug_logfile=debug.log
 
 auth_username=Your Email-id
 
-auth_password=Your  Email Password
+auth_password=Use app Password  //steps to generate an app password are listed below.
 
 force_sender=Your Email-id
 
- Turning on 'less secure apps' settings In google account
-
 Create the database, name useform and import the SQL file useform.sql .
 
+Create and use app passwords
+Note: If you use 2-Step-Verification and are seeing a 'password incorrect' error when trying to access your Google Account, an app password may solve the problem.
+
+1.Go to your Google Account.
+2.On the left navigation panel, choose Security.
+3.On the 'Signing in to Google' panel, choose App passwords. If you don’t see this option:
+4.2-Step Verification is not set up for your account
+5.2-Step Verification is set up for security keys only
+6.Your account is through work, school or other organisation
+7.You’ve turned on Advanced Protection for your account
+8.At the bottom, choose Select app and choose the app that you’re using.
+9.Choose Select device and choose the device that you're using.
+Choose Generate.
+Follow the instructions to enter the app password. The app password is the 16-character code in the yellow bar on your device.
+Choose Done.
